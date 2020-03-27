@@ -1,0 +1,23 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  position: fixed;
+}
+canvas {
+  display: block;
+}
+#fps {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  color: #f00;
+}
+#creator {
+  position: fixed;
+  font-size: 0.7rem;
+  font-style: italic;
+  right: 10px;
+  bottom: 5px;
+  color: rgb(200, 200, 200);
+}
